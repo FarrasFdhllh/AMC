@@ -103,30 +103,51 @@
         <div class="row">
         <div class="col-md-4">
                 <div class="card">
+<<<<<<< HEAD
                     <img src="../img/af1.jpg" class="card-img-top" alt="Product 1">
                     <div class="card-body">
                         <h5 class="card-title">Nike Air Force 1 '07</h5>
                         <p class="card-text">1.549.000</p>
+=======
+                    <img src="../img/sneakers.jpeg" class="card-img-top" alt="Product 1">
+                    <div class="card-body">
+                        <h5 class="card-title">NIKE</h5>
+                        <p class="card-text">1.000.000,-</p>
+>>>>>>> 32a4a69adbc081ade6a30cc3b0694656708fc0fc
                         <a href="#" class="btn btn-primary">Add to Cart</a>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card">
+<<<<<<< HEAD
                     <img src="../img/revolution7.png" class="card-img-top" alt="Product 2">
                     <div class="card-body">
                         <h5 class="card-title">Nike Revolution 7</h5>
                         <p class="card-text">648.000</p>
+=======
+                    <img src="../img/running.jpeg" class="card-img-top" alt="Product 2">
+                    <div class="card-body">
+                        <h5 class="card-title">Adidas</h5>
+                        <p class="card-text">1.000.000,-</p>
+>>>>>>> 32a4a69adbc081ade6a30cc3b0694656708fc0fc
                         <a href="#" class="btn btn-primary">Add to Cart</a>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card">
+<<<<<<< HEAD
                     <img src="../img/sambashoes.jpg" class="card-img-top" alt="Product 3">
                     <div class="card-body">
                         <h5 class="card-title">Adidas Samba OG Shoes</h5>
                         <p class="card-text">2.200.000</p>
+=======
+                    <img src="../img/flat.jpeg" class="card-img-top" alt="Product 3">
+                    <div class="card-body">
+                        <h5 class="card-title">Converse</h5>
+                        <p class="card-text">1.000.000,-</p>
+>>>>>>> 32a4a69adbc081ade6a30cc3b0694656708fc0fc
                         <a href="#" class="btn btn-primary">Add to Cart</a>
                     </div>
                 </div>
@@ -136,30 +157,51 @@
         <div class="row">
         <div class="col-md-4">
                 <div class="card">
+<<<<<<< HEAD
                     <img src="../img/superstar.jpg" class="card-img-top" alt="Product 1">
                     <div class="card-body">
                         <h5 class="card-title">Adidas Superstar 82 Shoes</h5>
                         <p class="card-text">2.300.000</p>
+=======
+                    <img src="../img/pantofel.jpeg" class="card-img-top" alt="Product 1">
+                    <div class="card-body">
+                        <h5 class="card-title">NIKE</h5>
+                        <p class="card-text">1.000.000,-</p>
+>>>>>>> 32a4a69adbc081ade6a30cc3b0694656708fc0fc
                         <a href="#" class="btn btn-primary">Add to Cart</a>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card">
+<<<<<<< HEAD
                     <img src="../img/chcuktaylor.jpg" class="card-img-top" alt="Product 2">
                     <div class="card-body">
                         <h5 class="card-title">Converse Chuck Taylor All Star</h5>
                         <p class="card-text">899.000</p>
+=======
+                    <img src="../img/sepatu boots.jpeg" class="card-img-top" alt="Product 2">
+                    <div class="card-body">
+                        <h5 class="card-title">Adidas</h5>
+                        <p class="card-text">1.000.000,-</p>
+>>>>>>> 32a4a69adbc081ade6a30cc3b0694656708fc0fc
                         <a href="#" class="btn btn-primary">Add to Cart</a>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card">
+<<<<<<< HEAD
                     <img src="../img/cruise.jpg" class="card-img-top" alt="Product 3">
                     <div class="card-body">
                         <h5 class="card-title">Converse Cruise</h5>
                         <p class="card-text">1.039.200</p>
+=======
+                    <img src="../img/converserun.webp" class="card-img-top" alt="Product 3">
+                    <div class="card-body">
+                        <h5 class="card-title">Converse</h5>
+                        <p class="card-text">1.000.000,-</p>
+>>>>>>> 32a4a69adbc081ade6a30cc3b0694656708fc0fc
                         <a href="#" class="btn btn-primary">Add to Cart</a>
                     </div>
                 </div>
@@ -169,35 +211,57 @@
         <div class="row">
         <div class="col-md-4">
                 <div class="card">
+<<<<<<< HEAD
                     <img src="../img/dynasoft.jpg" class="card-img-top" alt="Product 1">
                     <div class="card-body">
                         <h5 class="card-title">New Balance Dynasoft 900 v2</h5>
                         <p class="card-text">1.499.000</p>
+=======
+                    <img src="../img/yeazy.jpg" class="card-img-top" alt="Product 1">
+                    <div class="card-body">
+                        <h5 class="card-title">NIKE</h5>
+                        <p class="card-text">1.000.000,-</p>
+>>>>>>> 32a4a69adbc081ade6a30cc3b0694656708fc0fc
                         <a href="#" class="btn btn-primary">Add to Cart</a>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card">
+<<<<<<< HEAD
                     <img src="../img/yeezy.jpg" class="card-img-top" alt="Product 2">
                     <div class="card-body">
                         <h5 class="card-title">Yeezy 350 V2 Static Black</h5>
                         <p class="card-text">7.000.000</p>
+=======
+                    <img src="../img/New Balance 550.jpeg" class="card-img-top" alt="Product 2">
+                    <div class="card-body">
+                        <h5 class="card-title">Adidas</h5>
+                        <p class="card-text">1.000.000,-</p>
+>>>>>>> 32a4a69adbc081ade6a30cc3b0694656708fc0fc
                         <a href="#" class="btn btn-primary">Add to Cart</a>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card">
+<<<<<<< HEAD
                     <img src="../img/crocs.jpg" class="card-img-top" alt="Product 3">
                     <div class="card-body">
                         <h5 class="card-title">Crocs Squid Game Classic</h5>
                         <p class="card-text">1.499.000-</p>
+=======
+                    <img src="../img/puma.jpeg" class="card-img-top" alt="Product 3">
+                    <div class="card-body">
+                        <h5 class="card-title">Converse</h5>
+                        <p class="card-text">1.000.000,-</p>
+>>>>>>> 32a4a69adbc081ade6a30cc3b0694656708fc0fc
                         <a href="#" class="btn btn-primary">Add to Cart</a>
                     </div>
                 </div>
             </div>
         </div>
+<<<<<<< HEAD
         <br>
         <div class="row">
             <div class="col-md-4">
@@ -232,6 +296,8 @@
                 </div>
             </div>
         </div>
+=======
+>>>>>>> 32a4a69adbc081ade6a30cc3b0694656708fc0fc
     </div>
 
     <footer class="text-center text-lg-start mt-5">

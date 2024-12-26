@@ -79,6 +79,7 @@
 </head>
 <body>
 
+<<<<<<< HEAD
   <nav class="navbar bg-body-tertiary">
     <div class="container-fluid">
       <a class="navbar-brand" href="#">
@@ -93,6 +94,15 @@
         <button>Pilih Foto</button>
       </div>
       
+=======
+  <div class="profile-section">
+    <h3>Ubah Biodata Diri</h3>
+    <div class="profile-picture">
+        <img src="avatar.png" alt="User Avatar">
+        <br>
+        <button>Pilih Foto</button>
+      </div>
+>>>>>>> 32a4a69adbc081ade6a30cc3b0694656708fc0fc
     <p>Nama: <span id="displayName">rifa reza</span> 
       <a href="#" class="edit-btn" data-target="name">Ubah</a>
     </p>
